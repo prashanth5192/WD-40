@@ -1,0 +1,1 @@
+This Program is to experiment with the way how 'C' Program allocates the space on its stack during run-time, precisely I am trying to understand the activation records and the way it works.
